@@ -5,7 +5,7 @@ Comparing a **risk-parity strategy** using volatility forecasts for SPY and QQQ 
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
 1. **Fetch Data**  
    - Download daily prices for SPY (S&P 500 ETF) and QQQ (Nasdaq-100 ETF) using `yfinance`.
