@@ -17,10 +17,7 @@ Comparing a **risk-parity strategy** using volatility forecasts for SPY and QQQ 
    - Autocorrelation plots  
 
 3. **Compute Returns**  
-   - Log returns in %:  
-     \[
-     r_t = 100 \cdot \ln\left(\frac{P_t}{P_{t-1}}\right)
-     \]
+   
 
 4. **Volatility Forecasting**  
    - Baseline: 21-day rolling standard deviation  
